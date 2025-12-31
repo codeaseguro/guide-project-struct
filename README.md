@@ -5,20 +5,13 @@ Repositorio con guías prácticas para estructurar proyectos frontend, backend y
 ## Contenido
 
 ### Frontend
-- [MVC (Model-View-Controller)](./frontend/mvc/)
-- [MVVM (Model-View-ViewModel)](./frontend/mvvm/)
-- [Component-Based Architecture](./frontend/component-based/)
-- [Atomic Design](./frontend/atomic-design/)
+- [Atomic Design](./frontend/atomic-design.md/)
 - [Feature-Sliced Design](./frontend/feature-sliced.md)
 
 ### Backend
 - [Clean Architecture](./backend/clean-architecture.md)
-- [Arquitectura Hexagonal](./backend/hexagonal/)
-- [Microservicios](./backend/microservices/)
-- [Event-Driven Architecture](./backend/event-driven/)
+- [Arquitectura Hexagonal](./backend/hexagonal.md/)
 
-### Full-Stack
-- [Monorepo](./full-stack/monorepo/)
 
 ## Propósito
 
